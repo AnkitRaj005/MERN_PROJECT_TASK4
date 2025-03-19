@@ -5,7 +5,7 @@ This is a MERN (MongoDB, Express, React, Node.js) authentication system that inc
 ✅ Proper Validation & Error Handling
 ✅ JWT-Based Authentication
 ✅ Secure Password Hashing (bcrypt)
-✅ Protected Routes
+✅ Protected Routes.
 
  Features
 User Registration & Login
