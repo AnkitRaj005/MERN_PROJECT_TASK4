@@ -10,7 +10,7 @@ This is a MERN (MongoDB, Express, React, Node.js) authentication system that inc
  Features
 User Registration & Login
 Form Validation (Frontend & Backend)
-JWT Token Authentication & Authorization
+JWT Token Authentication & Authorization.
 Password Hashing with bcrypt
 Protected Routes in React
 
